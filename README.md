@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Suhail</h1>
 <h3 align="center">I am a flutter developer Welcome to my git hub</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhail9645&label=Profile%20views&color=0e75b6&style=flat" alt="suhail9645" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhail9645" alt="suhail9645" /></a> </p>
 
