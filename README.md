@@ -3,11 +3,11 @@
 
 <h1 align="center">Hi 👋, I'm Muhammed Suhail</h1>
 <h3 align="center">I am a flutter developer Welcome to my git hub</h3>
-
-- **📱🧑🏻‍💻 Passionated app & web developer**
-- **⚒️ Learning and exploring Tech**
-- **💻📱Flutter Developer**
-
+<p align="center">
+📱🧑🏻‍💻 Passionated app & web developer & 
+⚒️ Learning and exploring Tech & 
+💻📱Flutter Developer**
+ </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
