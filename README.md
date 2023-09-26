@@ -21,10 +21,6 @@
 
 </p>
 
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
  <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
